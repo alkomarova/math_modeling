@@ -1,4 +1,4 @@
-# Задание 2
+# Задание 3
 **ноутбук с работой** - [task3](https://github.com/alkomarova/math_modeling/blob/task3/task3.ipynb)
 ### Цель:
 Реализация симплекс-метода
