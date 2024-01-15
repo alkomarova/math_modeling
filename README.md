@@ -1,7 +1,7 @@
 # Задание 5
-**ноутбук с работой** - [task9](https://github.com/alkomarova/math_modeling/blob/task9/task9.ipynb)
+**ноутбук с работой** - [task11](https://github.com/alkomarova/math_modeling/blob/task11/task11.ipynb)
 ### Цель:
-Реализация метода обработки экспертных оценок
+
 
 ### Задачи: 
 
