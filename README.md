@@ -8,3 +8,4 @@
 * [Task4](https://github.com/alkomarova/math_modeling/tree/task3) - Симплекс-метод
 * [Task5](https://github.com/alkomarova/math_modeling/tree/task4) - Системно-динамическое моделирование
 * [Task6](https://github.com/alkomarova/math_modeling/tree/task5) - Модель Хольта-Винтерса
+* [Task9](https://github.com/alkomarova/math_modeling/tree/task9) - Обработка экспертных оценок
