@@ -1,5 +1,5 @@
 # Задание 17
-**ноутбук с работой** - [task11](https://github.com/alkomarova/math_modeling/blob/task17/task17.ipynb)
+**ноутбуки с работой** - [stocks](https://github.com/alkomarova/math_modeling/blob/task17/stocks.ipynb), [credit](https://github.com/alkomarova/math_modeling/blob/task17/credit.ipynb)
 ### Цель:
 Использовать одну из библиотек, представленных на курсе "Фронтиры прикладного искусственного интеллекта: промышленность, экономика, образование-2023" для решения финансовой задачи.
 
