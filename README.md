@@ -1,5 +1,5 @@
-# Задание 3
-**ноутбук с работой** - [task3](https://github.com/alkomarova/math_modeling/blob/task3/task3.ipynb)
+# Задание 4
+**ноутбук с работой** - [simplex](https://github.com/alkomarova/math_modeling/blob/task3/simplex.ipynb)
 ### Цель:
 Реализация симплекс-метода
 
