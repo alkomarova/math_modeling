@@ -1,5 +1,5 @@
-# Задание 2
-**ноутбук с работой** - [task4](https://github.com/alkomarova/math_modeling/blob/task4/task4.ipynb)
+# Задание 5
+**ноутбук с работой** - [dinmod](https://github.com/alkomarova/math_modeling/blob/task4/dm.ipynb)
 ### Цель:
 Знакомство с системно-динамическим программированием
 
