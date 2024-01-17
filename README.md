@@ -1,5 +1,5 @@
-# Задание 5
-**ноутбук с работой** - [task5](https://github.com/alkomarova/math_modeling/blob/task5/task5.ipynb)
+# Задание 3
+**ноутбук с работой** - [opt](https://github.com/alkomarova/math_modeling/blob/task5/opt.ipynb)
 ### Цель:
 Реализация метода Пиявского для нахождения глобального экстремума функций
 
