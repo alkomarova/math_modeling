@@ -1,5 +1,5 @@
-# Задание 5
-**ноутбук с работой** - [task5](https://github.com/alkomarova/math_modeling/blob/task5/task5.ipynb)
+# Задание 6
+**ноутбук с работой** - [task5](https://github.com/alkomarova/math_modeling/blob/task5/holt.ipynb)
 ### Цель:
 Реализация модели Хольта-Винтерса
 
